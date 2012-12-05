@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/kevin/桌面/T.sina_Java_SDK/lib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="/home/kevin/桌面/T.sina_Java_SDK/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/kevin/桌面/T.sina_Java_SDK/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/home/kevin/桌面/T.sina_Java_SDK/lib/junit-4.1.jar"/>
+	<classpathentry kind="con" path="org.dyno.visual.swing.VS_LIBRARY/layoutext"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
